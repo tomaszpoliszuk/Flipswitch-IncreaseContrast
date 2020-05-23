@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchincreasecontrast
+Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Increase Contrast
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Increase Contrast
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
