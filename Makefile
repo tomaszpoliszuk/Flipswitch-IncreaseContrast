@@ -1,8 +1,9 @@
 FINALPACKAGE=1
-DEBUG = 0
+
 INSTALL_TARGET_PROCESSES = SpringBoard
 ARCHS = armv7 armv7s arm64 arm64e
-TARGET = iphone:clang::9.0
+TARGET = iphone:clang::7.1
+SYSROOT = $(THEOS)/sdks/iPhoneOS13.6.sdk
 
 include $(THEOS)/makefiles/common.mk
 
