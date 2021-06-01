@@ -1,3 +1,20 @@
+/* Flipswitch toggle for Darken Colors/Increase Contrast
+ * Copyright (C) 2020 Tomasz Poliszuk
+ *
+ * Flipswitch toggle for Darken Colors/Increase Contrast is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, version 3 of the License, or (at your option) version 2.1 of the License
+ *
+ * Flipswitch toggle for Darken Colors/Increase Contrast is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Flipswitch toggle for Darken Colors/Increase Contrast. If not, see <https://www.gnu.org/licenses/>.
+ */
+
+
 #import <Flipswitch/FSSwitchDataSource.h>
 #import <Flipswitch/FSSwitchPanel.h>
 
